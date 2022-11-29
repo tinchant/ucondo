@@ -1,0 +1,12 @@
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\bin\Debug\net7.0\UCondo.PlanoDeContas.Domain.deps.json
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\bin\Debug\net7.0\UCondo.PlanoDeContas.Domain.dll
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\bin\Debug\net7.0\UCondo.PlanoDeContas.Domain.pdb
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\UCondo.PlanoDeContas.Domain.csproj.AssemblyReference.cache
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\UCondo.PlanoDeContas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\UCondo.PlanoDeContas.Domain.AssemblyInfoInputs.cache
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\UCondo.PlanoDeContas.Domain.AssemblyInfo.cs
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\UCondo.PlanoDeContas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\UCondo.PlanoDeContas.Domain.dll
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\refint\UCondo.PlanoDeContas.Domain.dll
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\UCondo.PlanoDeContas.Domain.pdb
+C:\Users\tinch\source\repos\ucondo\UCondo\UCondo.PlanoDeContas.Domain\obj\Debug\net7.0\ref\UCondo.PlanoDeContas.Domain.dll

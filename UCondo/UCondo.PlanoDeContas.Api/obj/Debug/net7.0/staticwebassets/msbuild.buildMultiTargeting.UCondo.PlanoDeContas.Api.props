@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UCondo.PlanoDeContas.Api.props" />
+</Project>
